@@ -196,4 +196,17 @@ Alle anderen wichtigen Definitionen sind auf dem Handout oder in der jeweiligen 
 
 / Aufgabe: Den Graphen $K$ der Funktion $g$ erhält man durch Spiegelung des Graphen $G_6$ an einer der beiden Koordinatenachsen und anschließende Verschiebung in Richtung einer der beiden Koordinatenachsen. Geben Sie eine Gleichung für die Funktion $g$ an.
 
+
+#pagebreak()
+
+== (l) 
+
+/ Aufgabe: 
+
+#pagebreak()
+
+== (l) - Lösung
+
+/ Aufgabe: 
+
 / Lösung: 
